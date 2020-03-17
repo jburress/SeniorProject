@@ -1,0 +1,145 @@
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.csprojAssemblyReference.cache
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\obj\Debug\netcoreapp3.0\WPFUI_MarkupCompile.cache
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.exe
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.deps.json
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.runtimeconfig.json
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.runtimeconfig.dev.json
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\obj\Debug\netcoreapp3.0\WPFUI_MarkupCompile.lref
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.g.resources
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.AssemblyInfoInputs.cache
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.AssemblyInfo.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\desktop\SeniorProject\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.exe
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.deps.json
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.runtimeconfig.json
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.runtimeconfig.dev.json
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\MaterialDesignColors.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\MaterialDesignThemes.Wpf.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\GalaSoft.MvvmLight.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\SAUSALibrary.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\System.Data.SQLite.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\SAUSALibrary.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\SAUSALibrary.dll.config
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\System.Data.SQLite.xml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\System.Data.SQLite.dll.config
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.csprojAssemblyReference.cache
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\About.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\CrateAttributes.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\DatabaseParameters.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\FileNotFoundError.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\Help.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\MainWindow.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\NewStack.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\OpenBuild.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\OpenProject.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\Preferences.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\Prefs.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\Splash.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\StorageArea.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\UpdateNotImplemented.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI_MarkupCompile.cache
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI_MarkupCompile.lref
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\App.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\About.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\CrateAttributes.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\DatabaseParameters.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\FileNotFoundError.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\Help.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\MainWindow.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\NewStack.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\OpenBuild.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\OpenProject.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\Preferences.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\Prefs.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\Splash.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\StorageArea.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\UpdateNotImplemented.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.g.resources
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.AssemblyInfoInputs.cache
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.AssemblyInfo.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.csproj.CopyComplete
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.exe
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.deps.json
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.runtimeconfig.json
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.runtimeconfig.dev.json
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\WPFUI.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\MaterialDesignColors.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\MaterialDesignThemes.Wpf.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\GalaSoft.MvvmLight.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\SAUSALibrary.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\System.Data.SQLite.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\SAUSALibrary.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\SAUSALibrary.dll.config
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.csprojAssemblyReference.cache
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\MainWindow.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\Splash.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI_MarkupCompile.cache
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI_MarkupCompile.lref
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\App.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\MainWindow.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\Splash.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.g.resources
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.AssemblyInfoInputs.cache
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.AssemblyInfo.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.csproj.CopyComplete
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\WPFUI.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\WarningViews\UpdateNotImplemented.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\WarningViews\UpdateNotImplemented.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\AboutViews\About.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\AboutViews\Help.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\FileNotFoundError.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\FileViews\Preferences.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\AboutViews\About.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\AboutViews\Help.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\FileNotFoundError.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\FileViews\Preferences.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\EditViews\EditExternalDBAttributes.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\EditViews\EditExternalDBAttributes.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\FileViews\NewRoom.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\FileViews\NewStack.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\FileViews\NewRoom.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\FileViews\NewStack.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\EmptyContainerError.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\SomethingWentWrong.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\EmptyContainerError.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\SomethingWentWrong.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\EmptyCustomDBFieldNameError.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\EmptyCustomDBFieldNameError.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\DirectoryNotFoundError.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\NewRoomErrorDialog.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\DirectoryNotFoundError.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\NewRoomErrorDialog.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\ExternalDBFieldError.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\MySql.Data.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\Ubiety.Dns.Core.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\Renci.SshNet.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\MySql.Data.xml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\Google.Protobuf.xml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\bin\Debug\netcoreapp3.0\Renci.SshNet.xml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\ErrorViews\ExternalDBFieldError.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\FileViews\ExportData.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\FileViews\ImportData.g.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\FileViews\ExportData.baml
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\senior project\SAUSA_Desktop\WPFUI\obj\Debug\netcoreapp3.0\Views\FileViews\ImportData.baml
