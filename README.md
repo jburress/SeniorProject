@@ -8,3 +8,5 @@ Ryan Houghton,
 Sarah Marchinko 
 
 SAUSA - 3-Dimensional Storage Configuration Application
+
+*NOTE* I have many more files for this project to upload (which I plan to soon). 
